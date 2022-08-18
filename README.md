@@ -2,7 +2,7 @@
 
 
 ## Descrição do Projeto
-<h3>Site criado usando HTML e CSS.</h3>
+<h3>Pagina criada usando HTML e CSS.</h3>
 
 
 
